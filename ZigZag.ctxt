@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=arg
+comment0.target=void\ main(java.lang.String[])
+comment1.params=arg
+comment1.target=int\ longestZigZag(int[])
+numComments=2

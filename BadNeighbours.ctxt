@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=arg
+comment0.target=int\ maxDonations(int[])
+comment1.params=
+comment1.target=int\ max()
+comment2.params=index
+comment2.target=int\ getPrevIndex(int)
+comment3.params=index
+comment3.target=int\ getNextIndex(int)
+numComments=4
